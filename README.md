@@ -1,7 +1,7 @@
 # nomad-aliyun-autoscaler
 
 The `aliyun` target plugin allows for the scaling of the Nomad cluster clients via creating and 
-destroying Aliyun ECS
+destroying aliyun ECS.
 
 ## Requirements
 
